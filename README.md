@@ -1,5 +1,11 @@
 # AI-Powered Customer Intelligence Platform
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+[AI Customer Intelligence Platform](https://ai-customer-intelligence-codexplorer.streamlit.app/)
+
 A Python analytics project and Streamlit dashboard for exploring the UCI Online Retail transaction dataset. It prepares customer-level data, summarizes business performance, segments customers with RFM features, estimates historical churn risk, and demonstrates future customer value modeling.
 
 > **Scope:** This is an educational, historical analysis. The churn label and revenue target are defined using 2011 transaction windows, and the dashboard applies models to prepared historical data. Outputs are not current customer forecasts or evidence of production model performance.

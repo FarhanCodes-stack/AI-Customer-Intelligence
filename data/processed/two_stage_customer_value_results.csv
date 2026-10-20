@@ -1,0 +1,2 @@
+Model,Test_Customers,MAE,RMSE,Actual_Average_Revenue,Predicted_Average_Revenue
+Two-Stage Customer Value Model,592,348.3488806322972,733.6381037044129,476.37486486486483,362.46434255442983
